@@ -4,7 +4,7 @@ Your Islamic Companion: Guiding You Every Step
 <img src="https://github.com/Anees7757/islamic_application/raw/master/screenshots/home.png" height="500">
 
 ## Features:
-- **Asma ul Husna** (Audio Included)
+- **Asma ul Husna**
   
   <img src="https://github.com/Anees7757/islamic_application/raw/master/screenshots/asma_u_lhusna.png" height="300">
 
