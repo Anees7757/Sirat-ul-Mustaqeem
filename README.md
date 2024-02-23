@@ -1,10 +1,12 @@
 # Sirat Ul Mustaqeem
 A complete Islamic Application
 
+![alt text](https://github.com/[Anees7757]/[islamic_application]/blob/[master]/Screenshot_20230116-213535.png?raw=true)
+
 # Features:
-- Asma ul Husna
+- Asma ul Husna(Audio Included)
 - Asma e Muhammad
-- Quran (english-translation, audio)
+- Quran (Audio + English translation)
 - Prayer Times
 - Qibla Direction
 - Tasbeeh
