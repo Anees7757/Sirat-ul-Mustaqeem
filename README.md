@@ -1,7 +1,7 @@
 # Sirat Ul Mustaqeem
 A complete Islamic Application
 
-![alt text](https://github.com/[Anees7757]/[islamic_application]/blob/[master]/Screenshot_20230116-213535.png?raw=true)
+![Home Screen](https://github.com/Anees7757/islamic_application/raw/master/Screenshot_20230116-213535.png)
 
 # Features:
 - Asma ul Husna(Audio Included)
