@@ -32,7 +32,7 @@ Your Islamic Companion: Guiding You Every Step
   
   and more...
 
-# Under Development
+## Under Development
 - **Mosque Locator**
 - **Juzz wise Quran**
 - **Download Quran Audio**
